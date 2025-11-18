@@ -8,7 +8,7 @@ I'm a Junior Data Engineer with experience in **Python** and **SQL**. I'm curren
 
 ### 👨‍💻 About Me
 
-* 🚀 **Junior Data Engineer**
+* 🚀 **Data Engineer**
 * 🐍 Experienced with **Python** for automation and data manipulation.
 * 💾 Proficient in **SQL**, performing queries and alterations on databases.
 * 🌱 Currently studying and deepening my knowledge in **Cloud (AWS)** and **Databricks**.
