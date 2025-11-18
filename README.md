@@ -4,7 +4,7 @@ Hi, my name is Hugo Dias! 👋
   <a href="https://www.linkedin.com/in/hugoduartedias/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-I'm a Junior Data Engineer with experience in **Python** and **SQL**. I'm currently studying and deepening my skills in **Cloud (AWS)** and **Databricks**.
+I'm a Data Engineer with experience in **Python** and **SQL**. I'm currently studying and deepening my skills in **Cloud (AWS)** and **Databricks**.
 
 ### 👨‍💻 About Me
 
